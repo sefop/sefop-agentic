@@ -1,0 +1,39 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Claude Code (local-only settings; skills and shared config stay tracked)
+.claude/settings.local.json
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
