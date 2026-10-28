@@ -3,9 +3,6 @@
 .vscode/
 *.iml
 
-# Claude Code (local-only settings; skills and shared config stay tracked)
-.claude/settings.local.json
-
 # Secrets / environment
 .env
 .env.*
