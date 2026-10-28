@@ -37,3 +37,6 @@ npm-debug.log*
 
 # Logs
 *.log
+
+# Agentic elements while in development
+.claude/
